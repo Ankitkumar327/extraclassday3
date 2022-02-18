@@ -1,0 +1,28 @@
+1. CSS?
+-> CSS is Cascading Style Sheet.CSS is used for styling in the HTML skeleton.
+
+2. CSS styling property?
+-> Three properties of styling
+1. Inline CSS
+2. Internal CSS
+3. External CSS
+
+Inline CSS has highest property then internal css and external css.
+In case of styling, when class will be used then class will have more property.
+
+3. CSS Box model?
+-> Consists of margin, padding, border 
+
+4. Margin & Padding?
+-> Margin is based on the browser but padding is based on the container.
+
+5. Border?
+-> Border accepts three property...size of border, style of border and color of border.
+
+6. Border-radius?
+-> Border-radius is used to make border circle in the end.
+
+7. Class and id?
+-> Class can be used multiple times but id should be unique and cannnot be used another place.
+For class -> use .
+For class -> use #
